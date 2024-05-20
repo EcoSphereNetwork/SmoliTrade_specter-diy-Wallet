@@ -15,3 +15,6 @@
 [submodule "Academy-Game"]
 	path = Academy-Game
 	url = NFT
+[submodule "SmoliTrade-App"]
+	path = SmoliTrade-App
+	url = NFT
